@@ -34,7 +34,6 @@ Task 1
 - Accepts user input as an integer.
 - Checks divisibility by 2 to determine if the number is even or odd.
 - Provides clear output messages.
-- Handles invalid (non-integer) inputs with an error message.
 
 Explanation of code
 
